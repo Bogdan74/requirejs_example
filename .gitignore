@@ -1,0 +1,10 @@
+syntax: glob
+.idea/
+app/js/library/
+*.orig
+node_modules/*
+app/js/builds/*
+*.gz
+init_js.html
+atlassian-ide-plugin.xml
+/nbproject

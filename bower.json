@@ -1,0 +1,28 @@
+{
+  "name": "r.js",
+  "version": "0.0.1",
+  "authors": [
+    "lavr"
+  ],
+  "description": "Require.js example project",
+  "keywords": [
+    "requirejs",
+    "jquery",
+    "underscore"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/js/library"
+  ],
+  "dependencies": {
+    "requirejs": "~2.1.11",
+    "underscore": "~1.6.0",
+    "jquery" : "~2.1.3",
+    "jquery-cookie": "~1.4.0",
+    "jquery-validation": "~1.13.0"
+  }
+}

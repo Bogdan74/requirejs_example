@@ -1,0 +1,17 @@
+{
+  "version": "0.0.1",
+  "description": "Require.js example project",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "requirejs": "2.1.14",
+    "bower": "*"
+  },
+  "scripts": {
+    "build": "bower install -f --allow-root; r.js -o ./app/build.js"
+  },
+  "author": "lavr",
+  "license": "BSD-2-Clause"
+}
